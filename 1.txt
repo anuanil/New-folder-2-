@@ -1,7 +1,12 @@
 first line
-<<<<<<< HEAD
-2nd line
-=======
+
 second line
 third line
->>>>>>> development1
+fourth line
+
+
+2nd line
+
+second line
+third line
+
